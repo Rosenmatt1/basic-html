@@ -1,7 +1,31 @@
+.title{
+    display: flex;
+    justify-content: center;
+}
 h1 {
-    color: red;
+    color: gold;
 }
 
-h1 {
-    color: blue
+.image {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    width: 300px;
+    border-color: black;
+    border-style: solid;
 }
+
+body {
+    background-color: green;
+}
+
+.bottomfoot {
+    background:white;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 100%;
+    height: 100px;
+}
+
+
